@@ -1,0 +1,5 @@
+.claude/
+.claudeignore
+__pycache__
+**/*.pth
+**/*.fasta
